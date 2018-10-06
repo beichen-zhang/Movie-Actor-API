@@ -6,6 +6,7 @@ import re
 import csv
 
 
+
 class website_spider(scrapy.Spider):
     name = "p1"
     movie_name = ""

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e66c98c-9db9-4f65-974b-3520655249b3" name="Default Changelist" comment="" />
+    <list default="true" id="8e66c98c-9db9-4f65-974b-3520655249b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/Database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/movie_stack.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/movie_stack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/table.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +23,7 @@
     <SUITE FILE_PATH="coverage/WebCrawler$quotes_spider.coverage" NAME="quotes_spider Coverage Results" MODIFIED="1538705397226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/WebCrawler$website_spider.coverage" NAME="website_spider Coverage Results" MODIFIED="1538716342355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/WebCrawler$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1538694550626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
-    <SUITE FILE_PATH="coverage/WebCrawler$Database.coverage" NAME="Database Coverage Results" MODIFIED="1538787254427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/WebCrawler$Database.coverage" NAME="Database Coverage Results" MODIFIED="1538793052100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/WebCrawler$test.coverage" NAME="test Coverage Results" MODIFIED="1538775919539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/tutorial/spiders" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -35,8 +46,8 @@
           <entry key="crawler" value="2" />
           <entry key="csv" value="8" />
           <entry key="html" value="1" />
-          <entry key="py" value="18" />
-          <entry key="txt" value="33" />
+          <entry key="py" value="19" />
+          <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -44,22 +55,22 @@
           <entry key="CSV" value="7" />
           <entry key="HTML" value="1" />
           <entry key="Ini" value="1" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="21" />
+          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="Python" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Protocol" value="13" />
           <entry key="crawler" value="419" />
-          <entry key="py" value="6048" />
-          <entry key="txt" value="12" />
+          <entry key="py" value="6725" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="6480" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="7157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -68,14 +79,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-205">
-              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+            <state relative-caret-position="124">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-                <marker date="1538786989221" expanded="true" signature="984:990" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,20 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/tutorial/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-466">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-645">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -105,22 +103,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/Database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
+            <state relative-caret-position="114">
+              <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
-                <marker date="1538787254414" expanded="true" signature="702:707" ph="..." />
-                <marker date="1538787254414" expanded="true" signature="1002:1003" ph="..." />
+                <marker date="1538793159500" expanded="true" signature="702:707" ph="..." />
+                <marker date="1538793159500" expanded="true" signature="1002:1003" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5310">
-              <caret line="354" column="11" selection-start-line="354" selection-end-line="354" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -129,23 +118,41 @@
         <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="329984" selection-start-column="329984" selection-end-column="329984" />
+              <caret column="48" selection-start-column="46" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt">
+        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="-5139" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/id.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie_stack.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41528" selection-start-column="41526" selection-end-column="41528" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1565" />
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -159,9 +166,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mw-parser-output</find>
-      <find>81</find>
-      <find>|</find>
       <find>wiki</find>
       <find>filmography</find>
       <find>wikitable sortable</find>
@@ -176,17 +180,26 @@
       <find>done with</find>
       <find>add to</find>
       <find>Brother (film),,https://en.</find>
-      <find>new movie content</find>
       <find>round 9</find>
-      <find>Star Maps (film)</find>
       <find>Chris Klein</find>
       <find>Kelly</find>
       <find>Tony</find>
       <find>TelnetConsole' object has no attribute 'port'</find>
       <find>round</find>
       <find>Thora Birch</find>
+      <find>Thora Birchå</find>
+      <find>Star Maps (film)</find>
+      <find>Embry</find>
+      <find>xpath</find>
+      <find>Couldn't listen on</find>
+      <find>new movie content</find>
+      <find>actor left number</find>
+      <find>actor_stack</find>
       <find>,,</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -201,13 +214,14 @@
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/test.py" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/actor.csv" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/movie.csv" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt" />
+        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt" />
+        <option value="$PROJECT_DIR$/tutorial/tutorial/settings.py" />
+        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/id.txt" />
+        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/movie_stack.txt" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py" />
-        <option value="$PROJECT_DIR$/tutorial/tutorial/settings.py" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/spiders/Database.py" />
       </list>
     </option>
@@ -224,6 +238,7 @@
     <option name="width" value="1400" />
     <option name="height" value="785" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -552,46 +567,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.5/site-packages/twisted/internet/defer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="147">
+          <caret line="1417" selection-start-line="1417" selection-end-line="1417" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt">
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/id.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5310">
-          <caret line="354" column="11" selection-start-line="354" selection-end-line="354" selection-end-column="11" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie_stack.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41528" selection-start-column="41526" selection-end-column="41528" />
+        </state>
+      </provider>
       <provider editor-type-id="LargeFileEditor">
         <state relative-caret-position="210">
           <caret column="1851" selection-start-column="1475" selection-end-column="1851" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5139" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/actor_stack.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="329984" selection-start-column="329984" selection-end-column="329984" />
+          <caret column="48" selection-start-column="46" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="-645">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/website_spider.py">
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-466">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="124">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -600,25 +634,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/Database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
+        <state relative-caret-position="114">
+          <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
-            <marker date="1538787254414" expanded="true" signature="702:707" ph="..." />
-            <marker date="1538787254414" expanded="true" signature="1002:1003" ph="..." />
+            <marker date="1538793159500" expanded="true" signature="702:707" ph="..." />
+            <marker date="1538793159500" expanded="true" signature="1002:1003" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/quotes_spider.py">
+    <entry file="file://$PROJECT_DIR$/tutorial/tutorial/spiders/movie.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-205">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1538786989221" expanded="true" signature="984:990" ph="..." />
-          </folding>
-        </state>
+        <state relative-caret-position="-1565" />
       </provider>
     </entry>
   </component>

@@ -122,15 +122,15 @@ runner = CrawlerRunner()
 
 @defer.inlineCallbacks
 def crawl():
-    yield runner.crawl(QuotesSpider(),"https://en.wikipedia.org/wiki/Chris_Hemsworth")
+    yield runner.crawl(QuotesSpider(),term =1)
+    yield runner.crawl(QuotesSpider(), term =2)
     time.sleep(3)
-    #yield runner.crawl(website_spider(),"https://en.wikipedia.org/wiki/Avengers:_Infinity_War")
-    #time.sleep(3)
 
     #reactor.stop()
 
-print("cao")
-crawl()
+for i in range(0,10):
+    print("round",i)
+    crawl()
 reactor.run()
 
 

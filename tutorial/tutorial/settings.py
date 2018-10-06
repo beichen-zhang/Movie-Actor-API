@@ -90,5 +90,5 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 EXTENSIONS = {
-   'scrapy.telnet.TelnetConsole': None
-}
+    'scrapy.telnet.TelnetConsole': None
+ }
