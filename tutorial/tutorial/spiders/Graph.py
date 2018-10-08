@@ -145,35 +145,36 @@ class Graph:
     def movie_in_year (self,num):
         return self.db.find_movie(num)
 
-#with open("database.json", "r") as read_file:
-#    data = json.load(read_file)
-#db = Database()
-#db.store_actor("actor.txt")
-#db.store_movie("movie.txt")
-#graph = Graph(db)
+    def read_json(self):
+        with open("database.json", "r") as read_file:
+            data = json.load(read_file)
+        return data
 
     def query(self):
         # 1. Find how much a movie has grossed
-        print(1, graph.find_gross("Garden of Evil"))
+        print(1, self.find_gross("Garden of Evil"))
 
         # 2. Find which movies an actor has worked in
-        print(2, graph.search_movie_by_actor("Marisa Tomei"))
+        print(2, self.search_movie_by_actor("Marisa Tomei"))
 
         # 3. List which actors worked in a movie
-        print(3, graph.search_actor_by_movie("Garden of Evil"))
+        print(3, self.search_actor_by_movie("Garden of Evil"))
 
         # 4. List the top X actors with the most total grossing value
-        print(4, graph.get_top(3))
+        print(4, self.get_top(3))
 
         # List the oldest X actors
-        print(5, graph.get_old(3))
+        print(5, self.get_old(3))
 
         # List all the movies for a given year
-        print(6, graph.actor_in_year(1972))
+        print(6, self.actor_in_year(1972))
 
         # List all the actors for a given year
-        print(7, graph.movie_in_year(1972))
+        print(7, self.movie_in_year(1977))
 
 
-
-
+db = Database()
+db.store_actor("actor.txt")
+db.store_movie("movie.txt")
+graph = Graph(db)
+graph.query()

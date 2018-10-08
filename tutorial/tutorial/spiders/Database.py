@@ -130,9 +130,9 @@ class Database ():
             dictionary["movie"] = movie_list
             json.dump(dictionary, outfile, indent=4)
 
-#db = Database()
-#db.store_actor("actor.txt")
-#db.store_movie("movie.txt")
+db = Database()
+db.store_actor("actor.txt")
+db.store_movie("movie.txt")
 
 
 
