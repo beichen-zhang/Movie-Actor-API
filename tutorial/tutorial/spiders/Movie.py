@@ -3,7 +3,7 @@ class Movie ():
     name = ""
     gross = ""
     star = []
-
+    money = 0
 
 
     def __init__(self, name_, gross_, star_):

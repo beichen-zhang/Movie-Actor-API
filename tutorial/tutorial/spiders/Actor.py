@@ -2,16 +2,14 @@
 class Actor ():
     name = ""
     age = ""
-    movie = []
+    movie =[]
+    age_int =0
 
 
-
-    def __init__(self, name_, age_, movie_list):
+    def __init__(self, name_, age_,movie_):
         self.name =name_
         self.age =age_
-        self.movie=movie_list.copy()
+        self.movie = movie_
 
-    def print(self):
-        print(self.name)
-        print(self.age)
-        print(self.movie)
+
+

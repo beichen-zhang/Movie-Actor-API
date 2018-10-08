@@ -90,5 +90,8 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 EXTENSIONS = {
-    'scrapy.telnet.TelnetConsole': None
+    'scrapy.telnet.TelnetConsole': None,
+'scrapy_jsonrpc.webservice.WebService': 500,
  }
+
+JSONRPC_ENABLED= True

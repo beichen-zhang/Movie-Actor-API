@@ -1,139 +1,132 @@
-from twisted.internet import reactor
-import scrapy
-from scrapy.crawler import CrawlerRunner
-from tutorial.tutorial.spiders.quotes_spider import QuotesSpider
-from scrapy.crawler import CrawlerProcess
-from twisted.internet import reactor
-from scrapy.crawler import CrawlerRunner
-from scrapy.utils.log import configure_logging
-from tutorial.tutorial.spiders.Actor import Actor
-import csv
 from tutorial.tutorial.spiders.Movie import Movie
-from tutorial.tutorial.spiders.website_spider import website_spider
-from multiprocessing import Process, Queue
-from twisted.internet import reactor
-from multiprocessing import Process, Queue
-from twisted.internet import reactor, defer
-import time
+from tutorial.tutorial.spiders.Actor import Actor
+
+import json
+
 
 
 class Database ():
     actor = []
     movie = []
-
     def __init__(self):
         self.actor =[]
         self.movie =[]
 
-    def append_actor(self,actor_):
-        self.actor.append(actor_)
-        if len(self.actor) > 260:
-            return False
+    # parse the actor.txt to actor object, store in database
+    def store_actor(self, filename):
+        file = open(filename,"r")
+        lines = file.readlines()
+        for line in lines:
+            if line[-1]=='\n':
+                line = line[0:len(line)-1]
+            if line.find(",") == -1:
+                continue
+            if line[0]=='<':
+                continue
+            attribute = line.split(",")
+            if(len(attribute)<2):
+                print("too short", attribute)
+                return
+            age = attribute[1]
+            name = attribute[0]
+            try:
+                i = int(age)
+                movie_list = []
+                if len(attribute)>2:
+                    for movie in attribute[2:]:
+                        movie_list.append(movie[30:])
+                actor = Actor(name,age,movie_list)
+                actor.age_int = i
+                self.actor.append(actor)
+            except ValueError:
+                i = 1
+        file.close()
 
-    def append_moive(self,movie_):
-        self.movie.append(movie_)
-        if len(self.movie) > 130:
-            return False
+    # parse the movie.txt to movie object, store in database
+    def store_movie(self,filename):
+        file = open(filename, "r")
+        lines = file.readlines()
+        for line in lines:
+            if line[-1]=='\n':
+                line = line[0:len(line)-1]
+            if(line[0:3]=="<li"):
+                self.handle_movie(line)
+                continue
+            attribute = line.split(",")
+            if len(attribute)>=2:
+                name = attribute[0]
+                gross= attribute[1]
+                movie = Movie(name,gross,[])
+                parts = gross.split(" ")
+                if len(parts)==2:
+                    if parts[1]=="million":
+                        try:
+                            movie.money = float(parts[0])*1000000
+                        except ValueError:
+                             a =1
+                    if parts[1]=="billion":
+                        try:
+                            movie.money = float(parts[0])*1000000000
+                        except ValueError:
+                            a = 1
+            else:
+                movie = Movie(attribute[0],"",[])
+            actor_list =[]
+            for actor in attribute[2:]:
+                actor_list.append(actor[30:])
+            movie.star = actor_list
+            self.movie.append(movie)
+        file.close()
 
-    def add_actor(self):
-        with open('actor.csv', 'r') as csvfile:
-            spamreader = csv.reader(csvfile, delimiter=',')
-            print(type(spamreader))
-            for row in spamreader:
-                name = row[0]
-                age = row[1]
-                film = row[2:]
-                actor = Actor(name, age, film)
-                print(name,age,film)
-                db.append_actor(actor)
+    def handle_movie(self,line):
+        index = line.find("title=")
+        title = line[index+7:]
+        title_end= title.find((">"+title[0]))
+        title = title[0:title_end-1]
+        self.movie.append(Movie(title,"",[]))
 
-    def add_movie(self):
-        with open('movie.csv') as csvfile:
-            spamreader = csv.reader(csvfile, delimiter=',')
-            for row in spamreader:
-                name = row[0]
-                gross = row[1]
-                star = row[2:]
-                movie = Movie(name, gross, star)
-                db.append_moive(movie)
+    # find the movie given a number
+    def find_movie(self,num):
+        year = 2018-num
+        target = Actor("void","-1",[])
+        for actor in self.actor:
+            if actor.age_int == year:
+                target = actor
+                break
+        ret_val = []
+        for movie in target.movie:
+            ret_val.append(movie)
+        return ",".join(ret_val)
 
-    def check_full(self):
-        if len(self.actor)< 250:
-            return False
-        if len(self.movie)< 125:
-            return False
-        return True
+    # store the database into the json file with indentation of 4
+    def store_json(self):
+        with open('database.json', 'w') as outfile:
+            actor_list = []
+            for actor in self.actor:
+                actor_dict = {}
+                actor_dict["name"] = actor.name
+                actor_dict["age"] = actor.age
+                actor_dict["movie"] = actor.movie
+                actor_dict["age_int"] = actor.age_int
+                actor_list.append(actor_dict)
 
-    def check_actor_exist(self, name):
-        for each in self.actor:
-            if each.name == name:
-                return True
-        return False
+            movie_list = []
+            for movie in self.movie:
+                movie_dict = {}
+                movie_dict["name"] = movie.name
+                movie_dict["gross"] = movie.gross
+                movie_dict["star"] = movie.star
+                movie_dict["money"] = movie.money
+                movie_list.append(movie_dict)
 
-    def check_movie_exist(self, name):
-        for each in self.movie:
-            if each.name == name:
-                return True
-        return False
+            dictionary = {}
+            dictionary["actor"] = actor_list
+            dictionary["movie"] = movie_list
+            json.dump(dictionary, outfile, indent=4)
 
-    def crawl(self,obj,url):
-        def _crawl(queue):
-            print(80)
-            # Assume we have a spider class called: WebSpider
-            runner = CrawlerRunner()
-            res = runner.crawl(obj,term=url)
-            #res.addBoth(lambda _: reactor.stop())
-            queue.put(res)
-            print(85)
-            return;
-
-        print(87)
-        q = Queue()
-        p = Process(target=_crawl, args=(q,))
-        print(90)
-        p.start()
-        print(92)
-        res = q.get()
-        print(94)
-        p.join()
-        return res
-
-    def run_actor_crawler(self,url):
-        configure_logging({'LOG_FORMAT': '%(levelname)s: %(message)s'})
-        runner = CrawlerRunner()
-
-        d = runner.crawl(QuotesSpider(), term=url)
-        d.addBoth(lambda _: reactor.stop())
-        reactor.run()
-        self.add_actor()
-
-    def run_movie_crawler(self,url):
-        configure_logging({'LOG_FORMAT': '%(levelname)s: %(message)s'})
-        runner = CrawlerRunner()
-
-        d = runner.crawl(website_spider(), term=url)
-        d.addBoth(lambda _: reactor.stop())
-        reactor.run()
-        self.add_movie()
-
-
-configure_logging()
-runner = CrawlerRunner()
-
-@defer.inlineCallbacks
-def crawl():
-    yield runner.crawl(QuotesSpider(),term =1)
-    yield runner.crawl(QuotesSpider(), term =2)
-    time.sleep(3)
-
-    #reactor.stop()
-
-for i in range(0,10):
-    print("round",i)
-    crawl()
-reactor.run()
-
-
+#db = Database()
+#db.store_actor("actor.txt")
+#db.store_movie("movie.txt")
 
 
 

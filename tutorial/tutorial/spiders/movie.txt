@@ -1,128 +1,150 @@
-Hunting (film),
-Ravenous (1999 film),
-L.A. Confidential (film),126.2 million
-Traitor (film),
-Equals (film),2 million
-In Her Skin,
-The Count of Monte Cristo (2002 film),75.4 million
-The Hurt Locker,49.2 million
-Breathe In (film),
-Two Brothers (2004 film),
-Hateship, Loveship,
-Animal Kingdom (film),6.8 million
-First Snow (2006 film),
-Rules of Engagement (film),71.7 million
-Don't Be Afraid of the Dark (2011 film),36 million
-Death Defying Acts,
-Dating the Enemy,
-Romeo Must Die,91 million
-Clockers (film),
-Heist (film),
-Get Shorty (film),115 million
-The Core,74 million
-Broken Arrow (1996 film),150.2 million
-Domino (2005 film),22 million
-A Life Less Ordinary,4.4 million
-The Book of Stars,
-Spinning Man,
-Lockout (film),32.2 million
-Domino (2018 film),
-Prometheus (2012 film),403.4 million
-More American Graffiti,8–15 million
-Mountains of the Moon (film),
-Brimstone (2016 film),2.1 million
-The Hard Way (1991 film),65.6 million
-Swinging Safari (film),1.1 million
-Results (film),
-Blood In Blood Out,
-Festival International du Film Francophone de Namur,
-He Got Game,22.4 million
-Light It Up (film),
-King of the Jungle (film),
-Sidewalks of New York (2001 film),3.5 million
-The Big Bang (2011 film),
-Ash Wednesday (2002 film),
-Men in Black II,441.8 million
-Love in the Time of Money,
-V-Day: Until the Violence Stops,
-Shattered Glass (film),2.9 million
-Hawthorne (TV series),
-Gun Hill Road (film),
-Without Men,
-Triggermen,
-One Day at a Time (2017 TV series),
-Gridlock'd,5.6 million
-Fresh Off the Boat (TV series),
-Devious Maids,
-Set It Up,
-The Pirate Fairy,
-Carlos (miniseries),
-Tinker Bell (film),
-Cyrano Fernandez,
-Secret of the Wings,
-Wrath of the Titans,305.3 million
-Detachment (film),
-Rise: Blood Hunter,
-Kung Fu Panda 2,665.7 million
-The Year of Getting to Know Us,
-Charlie's Angels: Full Throttle,259.1 million
-Saw II,147.7 million
-The Bourne Ultimatum (film),442.8 million
-The Mating Habits of the Earthbound Human,
-Hotel (2001 film),
-Dead Silence,22.2 million
-The Liberator (film),
-True Crime (1999 film),
-Zero Dark Thirty,132.8 million
-Saw V,113.8 million
-Love Kills (film),
-Shanghai Noon,100.5 million
-Kung Fu Panda 3,521.2 million
-Flypaper (1997 film),
-Cypher (film),
-Southie (film),
-Search Party (TV series),
-Bang (film),
-Lucky Number Slevin,56.3 million
-The Tale of the Princess Kaguya,
-Mulan II,
-Annapolis (2006 film),
-Nomads (2010 film),
-Redlight (film),
-Switching Channels,
-The Unholy (1988 film),6.3 million
-Bullet (1996 film),
-Southie (film),
-Butter (1998 film),
-The Sixth Sense,672.8 million
-Ransom (1996 film),309.5 million
-The Hunchback of Notre Dame II,
-The Hunchback of Notre Dame II,
-Overboard (2018 film),91.2 million
-Leaving Normal (film),
-Freaky Friday (2003 film),160.8 million
-Into the Wild (film),
-Hacksaw Ridge,175.3 million
-Freaky Friday (2003 film),160.8 million
-Calendar Girl (1993 film),2 million
-Gettin' Square,
-Piñero,
-Singin' in the Rain,12.4 million
-When a Man Loves a Woman (film),50.0 million
-Invisible Child,
-Two Women (2014 film),
-Slums of Beverly Hills,5.5 million
-The Great Raid,10.8 million
-Thirteen at Dinner (film),
-The Invisible (film),26.8 million
-The Veteran (2011 film),
-Gerald's Game (film),
-Simon Says (film),
-Bling (film),
-Edison (film),
-Underworld (2003 film),95.7 million
-The Hitchhiker's Guide to the Galaxy (film),104.5 million
-Canvas (2006 film),
-Mojave (film),
-The Pickle,
-Wilderness (film),
+RocknRolla,,https://en.wikipedia.org/wiki/Gerard Butler,https://en.wikipedia.org/wiki/Tom Wilkinson,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/Mark Strong,https://en.wikipedia.org/wiki/Idris Elba,https://en.wikipedia.org/wiki/Tom Hardy,https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/Jeremy Piven,https://en.wikipedia.org/wiki/Ludacris
+Newness,,https://en.wikipedia.org/wiki/Nicholas Hoult,https://en.wikipedia.org/wiki/Laia Costa,https://en.wikipedia.org/wiki/Courtney Eaton,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/Jessica Henwick,https://en.wikipedia.org/wiki/Esther Perel
+The Devil You Know (film),,https://en.wikipedia.org/wiki/Lena Olin,https://en.wikipedia.org/wiki/Rosamund Pike
+Garden of Evil,3.1 million,https://en.wikipedia.org/wiki/Gary Cooper,https://en.wikipedia.org/wiki/Susan Hayward,https://en.wikipedia.org/wiki/Richard Widmark
+Ma and Pa Kettle on Vacation,2.2 million,https://en.wikipedia.org/wiki/Marjorie Main,https://en.wikipedia.org/wiki/Percy Kilbride
+Hollywoodland,16.8 million,https://en.wikipedia.org/wiki/Adrien Brody,https://en.wikipedia.org/wiki/Diane Lane,https://en.wikipedia.org/wiki/Ben Affleck,https://en.wikipedia.org/wiki/Bob Hoskins
+Scooby-Doo! and the Monster of Mexico,,https://en.wikipedia.org/wiki/Frank Welker,https://en.wikipedia.org/wiki/Casey Kasem,https://en.wikipedia.org/wiki/Nicole Jaffe,https://en.wikipedia.org/wiki/Heather North,https://en.wikipedia.org/wiki/Eddie Santiago,https://en.wikipedia.org/wiki/Jesse Borrego,https://en.wikipedia.org/wiki/Candi Milo,https://en.wikipedia.org/wiki/Rita Moreno,https://en.wikipedia.org/wiki/Maria Canals,https://en.wikipedia.org/wiki/Alanna Ubach,https://en.wikipedia.org/wiki/Rip Taylor,https://en.wikipedia.org/wiki/Castulo Guerra,https://en.wikipedia.org/wiki/Benito Martinez (actor)
+Robots (2005 film),260.7 million,https://en.wikipedia.org/wiki/Ewan McGregor,https://en.wikipedia.org/wiki/Halle Berry,https://en.wikipedia.org/wiki/Greg Kinnear,https://en.wikipedia.org/wiki/Mel Brooks,https://en.wikipedia.org/wiki/Amanda Bynes,https://en.wikipedia.org/wiki/Drew Carey,https://en.wikipedia.org/wiki/Robin Williams
+Funny About Love,8.1 million,https://en.wikipedia.org/wiki/Gene Wilder,https://en.wikipedia.org/wiki/Christine Lahti,https://en.wikipedia.org/wiki/Mary Stuart Masterson
+The Chase (1994 film),7.9 million,https://en.wikipedia.org/wiki/Charlie Sheen,https://en.wikipedia.org/wiki/Kristy Swanson,https://en.wikipedia.org/wiki/Henry Rollins,https://en.wikipedia.org/wiki/Josh Mostel,https://en.wikipedia.org/wiki/Ray Wise
+Still Waiting...,,https://en.wikipedia.org/wiki/John Michael Higgins,https://en.wikipedia.org/wiki/Robert Patrick Benedict,https://en.wikipedia.org/wiki/Steve Howey (actor),https://en.wikipedia.org/wiki/Rob Kerkovich
+Manhunter (film),8.6 million,https://en.wikipedia.org/wiki/William Petersen,https://en.wikipedia.org/wiki/Kim Greist,https://en.wikipedia.org/wiki/Joan Allen,https://en.wikipedia.org/wiki/Brian Cox (actor),https://en.wikipedia.org/wiki/Dennis Farina,https://en.wikipedia.org/wiki/Stephen Lang,https://en.wikipedia.org/wiki/Tom Noonan
+Kettle of Fish (film),,https://en.wikipedia.org/wiki/Matthew Modine,https://en.wikipedia.org/wiki/Gina Gershon
+Wolves (2016 film),,https://en.wikipedia.org/wiki/Michael Shannon,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Chris Bauer,https://en.wikipedia.org/wiki/John Douglas Thompson
+Thanks for Sharing,1.1 million,https://en.wikipedia.org/wiki/Mark Ruffalo,https://en.wikipedia.org/wiki/Tim Robbins,https://en.wikipedia.org/wiki/Gwyneth Paltrow,https://en.wikipedia.org/wiki/Josh Gad,https://en.wikipedia.org/wiki/Joely Richardson,https://en.wikipedia.org/wiki/Patrick Fugit,https://en.wikipedia.org/wiki/Carol Kane,https://en.wikipedia.org/wiki/Pink (singer)
+Surrogates,122.4 million,https://en.wikipedia.org/wiki/Bruce Willis,https://en.wikipedia.org/wiki/Radha Mitchell,https://en.wikipedia.org/wiki/Rosamund Pike,https://en.wikipedia.org/wiki/Boris Kodjoe,https://en.wikipedia.org/wiki/Jack Noseworthy,https://en.wikipedia.org/wiki/James Cromwell,https://en.wikipedia.org/wiki/Ving Rhames
+Don't Do It (film),,https://en.wikipedia.org/wiki/Heather Graham,https://en.wikipedia.org/wiki/James Le Gros,https://en.wikipedia.org/wiki/Sheryl Lee,https://en.wikipedia.org/wiki/Esai Morales,https://en.wikipedia.org/wiki/James Marshall (actor),https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Sarah Trigger (page does not exist)
+Love Liza,,https://en.wikipedia.org/wiki/Philip Seymour Hoffman,https://en.wikipedia.org/wiki/Kathy Bates
+Every Day (2010 film),,https://en.wikipedia.org/wiki/Liev Schreiber,https://en.wikipedia.org/wiki/Helen Hunt,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Ezra Miller,https://en.wikipedia.org/wiki/David Harbour,https://en.wikipedia.org/wiki/Eddie Izzard,https://en.wikipedia.org/wiki/Brian Dennehy
+The Conspirator,15.5 million,https://en.wikipedia.org/wiki/James McAvoy,https://en.wikipedia.org/wiki/Robin Wright (actress),https://en.wikipedia.org/wiki/Kevin Kline,https://en.wikipedia.org/wiki/Evan Rachel Wood,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/Justin Long,https://en.wikipedia.org/wiki/Alexis Bledel,https://en.wikipedia.org/wiki/Tom Wilkinson
+Rush Hour 3,258 million,https://en.wikipedia.org/wiki/Jackie Chan,https://en.wikipedia.org/wiki/Chris Tucker
+Somersault (film),,https://en.wikipedia.org/wiki/Abbie Cornish,https://en.wikipedia.org/wiki/Sam Worthington,https://en.wikipedia.org/wiki/Erik Thomson,https://en.wikipedia.org/wiki/Anne Louise Lambert,https://en.wikipedia.org/wiki/Leah Purcell
+Fort Vengeance,,https://en.wikipedia.org/wiki/James Craig (actor),https://en.wikipedia.org/wiki/Rita Moreno,https://en.wikipedia.org/wiki/Keith Larsen
+Pagan Love Song,,https://en.wikipedia.org/wiki/Esther Williams,https://en.wikipedia.org/wiki/Howard Keel,https://en.wikipedia.org/wiki/Minna Gombell,https://en.wikipedia.org/wiki/Rita Moreno
+The Journey of Natty Gann,9.7 million,https://en.wikipedia.org/wiki/Meredith Salenger,https://en.wikipedia.org/wiki/John Cusack,https://en.wikipedia.org/wiki/Ray Wise
+Grey's Anatomy,,https://en.wikipedia.org/wiki/Ellen Pompeo,https://en.wikipedia.org/wiki/Sandra Oh,https://en.wikipedia.org/wiki/Katherine Heigl,https://en.wikipedia.org/wiki/Justin Chambers,https://en.wikipedia.org/wiki/T. R. Knight,https://en.wikipedia.org/wiki/Chandra Wilson,https://en.wikipedia.org/wiki/James Pickens, Jr.,https://en.wikipedia.org/wiki/Isaiah Washington,https://en.wikipedia.org/wiki/Patrick Dempsey,https://en.wikipedia.org/wiki/Kate Walsh (actress),https://en.wikipedia.org/wiki/Sara Ramirez,https://en.wikipedia.org/wiki/Eric Dane,https://en.wikipedia.org/wiki/Chyler Leigh,https://en.wikipedia.org/wiki/Brooke Smith (actress),https://en.wikipedia.org/wiki/Kevin McKidd,https://en.wikipedia.org/wiki/Jessica Capshaw,https://en.wikipedia.org/wiki/Kim Raver,https://en.wikipedia.org/wiki/Sarah Drew,https://en.wikipedia.org/wiki/Jesse Williams (actor),https://en.wikipedia.org/wiki/Camilla Luddington,https://en.wikipedia.org/wiki/Gaius Charles,https://en.wikipedia.org/wiki/Jerrika Hinton,https://en.wikipedia.org/wiki/Tessa Ferrer,https://en.wikipedia.org/wiki/Caterina Scorsone,https://en.wikipedia.org/wiki/Kelly McCreary,https://en.wikipedia.org/wiki/Jason George,https://en.wikipedia.org/wiki/Martin Henderson,https://en.wikipedia.org/wiki/Giacomo Gianniotti
+The Big Bad Swim,,https://en.wikipedia.org/wiki/Paget Brewster,https://en.wikipedia.org/wiki/Jeff Branson,https://en.wikipedia.org/wiki/Jess Weixler,https://en.wikipedia.org/wiki/Ricky Ullman,https://en.wikipedia.org/wiki/Liza Lapira,https://en.wikipedia.org/wiki/Grant Aleksander
+Die Another Day,435 million,https://en.wikipedia.org/wiki/Pierce Brosnan,https://en.wikipedia.org/wiki/Halle Berry,https://en.wikipedia.org/wiki/Toby Stephens,https://en.wikipedia.org/wiki/Rosamund Pike,https://en.wikipedia.org/wiki/John Cleese,https://en.wikipedia.org/wiki/Judi Dench
+Mirror, Mirror (1990 film),,https://en.wikipedia.org/wiki/Rainbow Harvest,https://en.wikipedia.org/wiki/Karen Black,https://en.wikipedia.org/wiki/Yvonne De Carlo,https://en.wikipedia.org/wiki/William Sanderson
+How to Train Your Dragon (film),495.8 million,https://en.wikipedia.org/wiki/Jay Baruchel,https://en.wikipedia.org/wiki/Gerard Butler,https://en.wikipedia.org/wiki/Craig Ferguson,https://en.wikipedia.org/wiki/America Ferrera,https://en.wikipedia.org/wiki/Jonah Hill,https://en.wikipedia.org/wiki/Christopher Mintz-Plasse,https://en.wikipedia.org/wiki/T. J. Miller,https://en.wikipedia.org/wiki/Kristen Wiig
+The House (2017 film),34.2 million,https://en.wikipedia.org/wiki/Amy Poehler,https://en.wikipedia.org/wiki/Jason Mantzoukas,https://en.wikipedia.org/wiki/Nick Kroll,https://en.wikipedia.org/wiki/Allison Tolman,https://en.wikipedia.org/wiki/Michaela Watkins,https://en.wikipedia.org/wiki/Jeremy Renner
+Night of the Living Deb,,https://en.wikipedia.org/wiki/Maria Thayer,https://en.wikipedia.org/wiki/Ray Wise,https://en.wikipedia.org/wiki/Chris Marquette,https://en.wikipedia.org/wiki/David Krumholtz
+You're Not You,,https://en.wikipedia.org/wiki/Hilary Swank,https://en.wikipedia.org/wiki/Emmy Rossum,https://en.wikipedia.org/wiki/Josh Duhamel,https://en.wikipedia.org/wiki/Loretta Devine,https://en.wikipedia.org/wiki/Ali Larter,https://en.wikipedia.org/wiki/Jason Ritter,https://en.wikipedia.org/wiki/Frances Fisher,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Ernie Hudson
+Great Balls of Fire! (film),13.7 million,https://en.wikipedia.org/wiki/Dennis Quaid,https://en.wikipedia.org/wiki/Winona Ryder,https://en.wikipedia.org/wiki/Alec Baldwin,https://en.wikipedia.org/wiki/Trey Wilson
+Wilderness (film),,https://en.wikipedia.org/wiki/Sean Pertwee,https://en.wikipedia.org/wiki/Alex Reid (actress),https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/Lenora Crichlow
+Kong: Skull Island,566.7 million,https://en.wikipedia.org/wiki/Tom Hiddleston,https://en.wikipedia.org/wiki/Samuel L. Jackson,https://en.wikipedia.org/wiki/John Goodman,https://en.wikipedia.org/wiki/Brie Larson,https://en.wikipedia.org/wiki/Jing Tian,https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/John Ortiz,https://en.wikipedia.org/wiki/Corey Hawkins,https://en.wikipedia.org/wiki/Jason Mitchell (actor),https://en.wikipedia.org/wiki/Shea Whigham,https://en.wikipedia.org/wiki/Thomas Mann (actor),https://en.wikipedia.org/wiki/Terry Notary,https://en.wikipedia.org/wiki/John C. Reilly
+I Think I Love My Wife,,https://en.wikipedia.org/wiki/Kerry Washington,https://en.wikipedia.org/wiki/Gina Torres,https://en.wikipedia.org/wiki/Steve Buscemi,https://en.wikipedia.org/wiki/Stephen A. Smith
+The Glimmer Man,,https://en.wikipedia.org/wiki/Steven Seagal,https://en.wikipedia.org/wiki/Keenen Ivory Wayans,https://en.wikipedia.org/wiki/Bob Gunton,https://en.wikipedia.org/wiki/Brian Cox (actor),https://en.wikipedia.org/wiki/Michelle Johnson (actress)
+Vanishing on 7th Street,,https://en.wikipedia.org/wiki/Hayden Christensen,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/John Leguizamo,https://en.wikipedia.org/wiki/Jacob Latimore
+Blue Hill Avenue,,https://en.wikipedia.org/wiki/Allen Payne,https://en.wikipedia.org/wiki/Angelle Brooks,https://en.wikipedia.org/wiki/Michael Taliferro,https://en.wikipedia.org/wiki/William L. Johnson,https://en.wikipedia.org/wiki/Andrew Divoff,https://en.wikipedia.org/wiki/Clarence Williams III,https://en.wikipedia.org/wiki/William Forsythe (actor)
+The Man with the Iron Heart (film),,https://en.wikipedia.org/wiki/Jason Clarke,https://en.wikipedia.org/wiki/Rosamund Pike,https://en.wikipedia.org/wiki/Jack O'Connell (actor),https://en.wikipedia.org/wiki/Jack Reynor,https://en.wikipedia.org/wiki/Mia Wasikowska
+Kettle of Fish (film),,https://en.wikipedia.org/wiki/Matthew Modine,https://en.wikipedia.org/wiki/Gina Gershon
+Maid in Manhattan,154.9 million,https://en.wikipedia.org/wiki/Jennifer Lopez,https://en.wikipedia.org/wiki/Ralph Fiennes,https://en.wikipedia.org/wiki/Natasha Richardson
+The Pursuit of Happyness,307.1 million,https://en.wikipedia.org/wiki/Will Smith,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/Jaden Smith
+CSI: Crime Scene Investigation,,https://en.wikipedia.org/wiki/William Petersen,https://en.wikipedia.org/wiki/Marg Helgenberger,https://en.wikipedia.org/wiki/Ted Danson,https://en.wikipedia.org/wiki/Gary Dourdan,https://en.wikipedia.org/wiki/George Eads,https://en.wikipedia.org/wiki/Paul Guilfoyle,https://en.wikipedia.org/wiki/Jorja Fox,https://en.wikipedia.org/wiki/Eric Szmanda,https://en.wikipedia.org/wiki/Robert David Hall,https://en.wikipedia.org/wiki/Louise Lombard,https://en.wikipedia.org/wiki/Wallace Langham,https://en.wikipedia.org/wiki/Lauren Lee Smith,https://en.wikipedia.org/wiki/Laurence Fishburne,https://en.wikipedia.org/wiki/Liz Vassey,https://en.wikipedia.org/wiki/David Berman (actor),https://en.wikipedia.org/wiki/Elisabeth Harnois,https://en.wikipedia.org/wiki/Elisabeth Shue,https://en.wikipedia.org/wiki/Jon Wellner
+The Toast of New Orleans,,https://en.wikipedia.org/wiki/Mario Lanza,https://en.wikipedia.org/wiki/Kathryn Grayson,https://en.wikipedia.org/wiki/David Niven
+Batman v Superman: Dawn of Justice,873.6 million,https://en.wikipedia.org/wiki/Ben Affleck,https://en.wikipedia.org/wiki/Henry Cavill,https://en.wikipedia.org/wiki/Amy Adams,https://en.wikipedia.org/wiki/Jesse Eisenberg,https://en.wikipedia.org/wiki/Diane Lane,https://en.wikipedia.org/wiki/Laurence Fishburne,https://en.wikipedia.org/wiki/Jeremy Irons,https://en.wikipedia.org/wiki/Holly Hunter,https://en.wikipedia.org/wiki/Gal Gadot
+No Good Deed (2014 film),54.3 million,https://en.wikipedia.org/wiki/Idris Elba,https://en.wikipedia.org/wiki/Taraji P. Henson
+Boxboarders!,,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/James Immekus (page does not exist),https://en.wikipedia.org/wiki/Austin Basis,https://en.wikipedia.org/wiki/Michelle Pierce,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Mitch Eakins (page does not exist)
+Don't Look Under The Bed,,https://en.wikipedia.org/wiki/Erin Chambers,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Robin Riker,https://en.wikipedia.org/wiki/Steve Valentine,https://en.wikipedia.org/wiki/Jake Sakson,https://en.wikipedia.org/wiki/Stephen Tobolowsky
+Flarsky,,https://en.wikipedia.org/wiki/Seth Rogen,https://en.wikipedia.org/wiki/Charlize Theron,https://en.wikipedia.org/wiki/O'Shea Jackson Jr.,https://en.wikipedia.org/wiki/Alexander Skarsgård,https://en.wikipedia.org/wiki/Randall Park,https://en.wikipedia.org/wiki/Bob Odenkirk,https://en.wikipedia.org/wiki/Andy Serkis
+Casa de los Babys,,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Maggie Gyllenhaal,https://en.wikipedia.org/wiki/Daryl Hannah,https://en.wikipedia.org/wiki/Susan Lynch,https://en.wikipedia.org/wiki/Mary Steenburgen,https://en.wikipedia.org/wiki/Lili Taylor
+The Kreutzer Sonata (2008 film),,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/Elisabeth Röhm,https://en.wikipedia.org/wiki/Anjelica Huston
+Age Isn't Everything,,https://en.wikipedia.org/wiki/Jonathan Silverman,https://en.wikipedia.org/wiki/Robert Prosky,https://en.wikipedia.org/wiki/Paul Sorvino,https://en.wikipedia.org/wiki/Rita Moreno
+A Private War,,https://en.wikipedia.org/wiki/Rosamund Pike,https://en.wikipedia.org/wiki/Jamie Dornan,https://en.wikipedia.org/wiki/Stanley Tucci,https://en.wikipedia.org/wiki/Tom Hollander
+Genghis Khan (1965 film),,https://en.wikipedia.org/wiki/Omar Sharif,https://en.wikipedia.org/wiki/Stephen Boyd,https://en.wikipedia.org/wiki/James Mason
+The Wonderful Ice Cream Suit,,https://en.wikipedia.org/wiki/Clifton Collins Jr.,https://en.wikipedia.org/wiki/Joe Mantegna,https://en.wikipedia.org/wiki/Esai Morales,https://en.wikipedia.org/wiki/Gregory Sierra,https://en.wikipedia.org/wiki/Edward James Olmos
+CHiPs (film),26.8 million,https://en.wikipedia.org/wiki/Michael Peña,https://en.wikipedia.org/wiki/Rosa Salazar,https://en.wikipedia.org/wiki/Adam Brody,https://en.wikipedia.org/wiki/Vincent D'Onofrio
+Infestation (film),,https://en.wikipedia.org/wiki/Chris Marquette,https://en.wikipedia.org/wiki/Brooke Nevin,https://en.wikipedia.org/wiki/Deborah Geffner,https://en.wikipedia.org/wiki/Ray Wise
+The End of the Affair (1999 film),,https://en.wikipedia.org/wiki/Ralph Fiennes,https://en.wikipedia.org/wiki/Julianne Moore,https://en.wikipedia.org/wiki/Stephen Rea,https://en.wikipedia.org/wiki/Jason Isaacs
+The Time Traveler's Wife (film),101.3 million,https://en.wikipedia.org/wiki/Eric Bana,https://en.wikipedia.org/wiki/Rachel McAdams,https://en.wikipedia.org/wiki/Ron Livingston
+Rosewood Lane,,https://en.wikipedia.org/wiki/Rose McGowan,https://en.wikipedia.org/wiki/Lauren Vélez,https://en.wikipedia.org/wiki/Lesley-Anne Down,https://en.wikipedia.org/wiki/Ray Wise
+Buddha's Little Finger (film),,https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/André Hennicke,https://en.wikipedia.org/wiki/Karine Vanasse,https://en.wikipedia.org/wiki/Stipe Erceg,https://en.wikipedia.org/wiki/Christoph Bach (actor)
+The Jungle Book: Mowgli's Story,,https://en.wikipedia.org/wiki/Brandon Baker,https://en.wikipedia.org/wiki/Brian Doyle-Murray,https://en.wikipedia.org/wiki/Eartha Kitt,https://en.wikipedia.org/wiki/Clancy Brown,https://en.wikipedia.org/wiki/Peri Gilpin,https://en.wikipedia.org/wiki/Sherman Howard
+Rise: Blood Hunter,,https://en.wikipedia.org/wiki/Lucy Liu,https://en.wikipedia.org/wiki/Michael Chiklis,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Margo Harshman
+Strange Nature (film),,https://en.wikipedia.org/wiki/Lisa Sheridan
+The Wind Rises,136.5 million,https://en.wikipedia.org/wiki/Hideaki Anno,https://en.wikipedia.org/wiki/Miori Takimoto,https://en.wikipedia.org/wiki/Hidetoshi Nishijima (actor),https://en.wikipedia.org/wiki/Masahiko Nishimura,https://en.wikipedia.org/wiki/Steve Alpert,https://en.wikipedia.org/wiki/Morio Kazama,https://en.wikipedia.org/wiki/Keiko Takeshita,https://en.wikipedia.org/wiki/Mirai Shida,https://en.wikipedia.org/wiki/Jun Kunimura,https://en.wikipedia.org/wiki/Shinobu Otake,https://en.wikipedia.org/wiki/Nomura Mansai
+Where the Day Takes You,,https://en.wikipedia.org/wiki/Sean Astin,https://en.wikipedia.org/wiki/Lara Flynn Boyle,https://en.wikipedia.org/wiki/Peter Dobson,https://en.wikipedia.org/wiki/Balthazar Getty,https://en.wikipedia.org/wiki/Ricki Lake,https://en.wikipedia.org/wiki/James LeGros,https://en.wikipedia.org/wiki/Dermot Mulroney,https://en.wikipedia.org/wiki/Will Smith
+The Singing Detective (film),,https://en.wikipedia.org/wiki/Robert Downey Jr.,https://en.wikipedia.org/wiki/Robin Wright,https://en.wikipedia.org/wiki/Jeremy Northam,https://en.wikipedia.org/wiki/Katie Holmes
+Memento (film),39.7 million,https://en.wikipedia.org/wiki/Guy Pearce,https://en.wikipedia.org/wiki/Carrie-Anne Moss,https://en.wikipedia.org/wiki/Joe Pantoliano
+Family Guy,,
+Jackboots on Whitehall,,https://en.wikipedia.org/wiki/Ewan McGregor,https://en.wikipedia.org/wiki/Rosamund Pike,https://en.wikipedia.org/wiki/Alan Cumming,https://en.wikipedia.org/wiki/Timothy Spall,https://en.wikipedia.org/wiki/Tom Wilkinson,https://en.wikipedia.org/wiki/Sanjeev Bhaskar,https://en.wikipedia.org/wiki/Richard E. Grant,https://en.wikipedia.org/wiki/Pam Ferris,https://en.wikipedia.org/wiki/Richard O'Brien,https://en.wikipedia.org/wiki/Richard Griffiths,https://en.wikipedia.org/wiki/Hugh Fraser (actor),https://en.wikipedia.org/wiki/Tobias Menzies,https://en.wikipedia.org/wiki/Stephen Merchant,https://en.wikipedia.org/wiki/Dominic West
+Confessions of a Dangerous Mind,33.1 million,https://en.wikipedia.org/wiki/Drew Barrymore,https://en.wikipedia.org/wiki/Julia Roberts,https://en.wikipedia.org/wiki/Sam Rockwell
+If I Were You (2012 Canadian film),,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Leonor Watling,https://en.wikipedia.org/wiki/Aidan Quinn
+Wild Hogs,253.6 million,https://en.wikipedia.org/wiki/Tim Allen,https://en.wikipedia.org/wiki/John Travolta,https://en.wikipedia.org/wiki/Martin Lawrence,https://en.wikipedia.org/wiki/William H. Macy,https://en.wikipedia.org/wiki/Ray Liotta,https://en.wikipedia.org/wiki/Marisa Tomei
+Community (TV series),,https://en.wikipedia.org/wiki/Joel McHale,https://en.wikipedia.org/wiki/Gillian Jacobs,https://en.wikipedia.org/wiki/Danny Pudi,https://en.wikipedia.org/wiki/Yvette Nicole Brown,https://en.wikipedia.org/wiki/Alison Brie,https://en.wikipedia.org/wiki/Donald Glover,https://en.wikipedia.org/wiki/Ken Jeong,https://en.wikipedia.org/wiki/Chevy Chase,https://en.wikipedia.org/wiki/Jim Rash
+Pirates of the Caribbean: At World's End,963.4 million,https://en.wikipedia.org/wiki/Johnny Depp,https://en.wikipedia.org/wiki/Orlando Bloom,https://en.wikipedia.org/wiki/Keira Knightley,https://en.wikipedia.org/wiki/Geoffrey Rush,https://en.wikipedia.org/wiki/Bill Nighy,https://en.wikipedia.org/wiki/Chow Yun-Fat,https://en.wikipedia.org/wiki/Naomie Harris,https://en.wikipedia.org/wiki/Jack Davenport,https://en.wikipedia.org/wiki/Kevin McNally,https://en.wikipedia.org/wiki/Tom Hollander,https://en.wikipedia.org/wiki/Jonathan Pryce
+Holmes and Watson,,https://en.wikipedia.org/wiki/John C. Reilly,https://en.wikipedia.org/wiki/Hugh Laurie,https://en.wikipedia.org/wiki/Rebecca Hall,https://en.wikipedia.org/wiki/Rob Brydon,https://en.wikipedia.org/wiki/Kelly Macdonald,https://en.wikipedia.org/wiki/Ralph Fiennes
+The Book of Life (2014 film),99.8 million,https://en.wikipedia.org/wiki/Diego Luna,https://en.wikipedia.org/wiki/Zoe Saldana,https://en.wikipedia.org/wiki/Channing Tatum,https://en.wikipedia.org/wiki/Christina Applegate,https://en.wikipedia.org/wiki/Ice Cube,https://en.wikipedia.org/wiki/Ron Perlman,https://en.wikipedia.org/wiki/Kate del Castillo
+The Singing Detective (film),,https://en.wikipedia.org/wiki/Robert Downey Jr.,https://en.wikipedia.org/wiki/Robin Wright,https://en.wikipedia.org/wiki/Jeremy Northam,https://en.wikipedia.org/wiki/Katie Holmes
+Detachment (film),,https://en.wikipedia.org/wiki/Adrien Brody,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Christina Hendricks,https://en.wikipedia.org/wiki/William Petersen,https://en.wikipedia.org/wiki/Bryan Cranston,https://en.wikipedia.org/wiki/Tim Blake Nelson,https://en.wikipedia.org/wiki/Betty Kaye,https://en.wikipedia.org/wiki/Sami Gayle,https://en.wikipedia.org/wiki/Lucy Liu,https://en.wikipedia.org/wiki/Blythe Danner,https://en.wikipedia.org/wiki/James Caan
+Don't Do It (film),,https://en.wikipedia.org/wiki/Heather Graham,https://en.wikipedia.org/wiki/James Le Gros,https://en.wikipedia.org/wiki/Sheryl Lee,https://en.wikipedia.org/wiki/Esai Morales,https://en.wikipedia.org/wiki/James Marshall (actor),https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Sarah Trigger (page does not exist)
+Colosio: El asesinato,,https://en.wikipedia.org/wiki/José María Yazpik
+The Sorcerer's Apprentice (2010 film),215.3 million,https://en.wikipedia.org/wiki/Nicolas Cage,https://en.wikipedia.org/wiki/Jay Baruchel,https://en.wikipedia.org/wiki/Alfred Molina,https://en.wikipedia.org/wiki/Teresa Palmer,https://en.wikipedia.org/wiki/Monica Bellucci,https://en.wikipedia.org/wiki/Omar Benson Miller,https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/Alice Krige,https://en.wikipedia.org/wiki/Jake Cherry
+A Cat in Paris,0.3 million,https://en.wikipedia.org/wiki/Dominique Blanc,https://en.wikipedia.org/wiki/Jean Benguigui,https://en.wikipedia.org/wiki/Bernadette Lafont
+The Bounce Back,,https://en.wikipedia.org/wiki/Shemar Moore,https://en.wikipedia.org/wiki/Nadine Velazquez,https://en.wikipedia.org/wiki/Bill Bellamy,https://en.wikipedia.org/wiki/Sheryl Underwood,https://en.wikipedia.org/wiki/Kali Hawk
+Flubber (film),178 million,https://en.wikipedia.org/wiki/Robin Williams,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Christopher McDonald,https://en.wikipedia.org/wiki/Raymond J. Barry,https://en.wikipedia.org/wiki/Clancy Brown,https://en.wikipedia.org/wiki/Ted Levine
+The Wind Rises,136.5 million,https://en.wikipedia.org/wiki/Hideaki Anno,https://en.wikipedia.org/wiki/Miori Takimoto,https://en.wikipedia.org/wiki/Hidetoshi Nishijima (actor),https://en.wikipedia.org/wiki/Masahiko Nishimura,https://en.wikipedia.org/wiki/Steve Alpert,https://en.wikipedia.org/wiki/Morio Kazama,https://en.wikipedia.org/wiki/Keiko Takeshita,https://en.wikipedia.org/wiki/Mirai Shida,https://en.wikipedia.org/wiki/Jun Kunimura,https://en.wikipedia.org/wiki/Shinobu Otake,https://en.wikipedia.org/wiki/Nomura Mansai
+Where the Day Takes You,,https://en.wikipedia.org/wiki/Sean Astin,https://en.wikipedia.org/wiki/Lara Flynn Boyle,https://en.wikipedia.org/wiki/Peter Dobson,https://en.wikipedia.org/wiki/Balthazar Getty,https://en.wikipedia.org/wiki/Ricki Lake,https://en.wikipedia.org/wiki/James LeGros,https://en.wikipedia.org/wiki/Dermot Mulroney,https://en.wikipedia.org/wiki/Will Smith
+Harsh Times,,https://en.wikipedia.org/wiki/Christian Bale,https://en.wikipedia.org/wiki/Freddy Rodriguez (actor),https://en.wikipedia.org/wiki/Eva Longoria,https://en.wikipedia.org/wiki/Tammy Trull
+The Book of Life (2014 film),99.8 million,https://en.wikipedia.org/wiki/Diego Luna,https://en.wikipedia.org/wiki/Zoe Saldana,https://en.wikipedia.org/wiki/Channing Tatum,https://en.wikipedia.org/wiki/Christina Applegate,https://en.wikipedia.org/wiki/Ice Cube,https://en.wikipedia.org/wiki/Ron Perlman,https://en.wikipedia.org/wiki/Kate del Castillo
+Last Night (2010 film),,https://en.wikipedia.org/wiki/Keira Knightley,https://en.wikipedia.org/wiki/Sam Worthington,https://en.wikipedia.org/wiki/Eva Mendes,https://en.wikipedia.org/wiki/Guillaume Canet
+23 Blast,,https://en.wikipedia.org/wiki/Stephen Lang,https://en.wikipedia.org/wiki/Alexa Vega,https://en.wikipedia.org/wiki/Mark Hapka,https://en.wikipedia.org/wiki/Max Adler (actor),https://en.wikipedia.org/wiki/Kim Zimmer,https://en.wikipedia.org/wiki/Becky Ann Baker,https://en.wikipedia.org/wiki/Dylan Baker,https://en.wikipedia.org/wiki/Timothy Busfield,https://en.wikipedia.org/wiki/Fred Thompson
+Flushed Away,178 million,https://en.wikipedia.org/wiki/Hugh Jackman,https://en.wikipedia.org/wiki/Kate Winslet,https://en.wikipedia.org/wiki/Ian McKellen,https://en.wikipedia.org/wiki/Jean Reno,https://en.wikipedia.org/wiki/Bill Nighy,https://en.wikipedia.org/wiki/Andy Serkis,https://en.wikipedia.org/wiki/Shane Richie
+Coast to Coast (2003 film),,https://en.wikipedia.org/wiki/Richard Dreyfuss,https://en.wikipedia.org/wiki/Judy Davis,https://en.wikipedia.org/wiki/Selma Blair,https://en.wikipedia.org/wiki/Fred Ward,https://en.wikipedia.org/wiki/Maximilian Schell
+The Ring (1952 film),,https://en.wikipedia.org/wiki/Lalo Rios,https://en.wikipedia.org/wiki/Gerald Mohr,https://en.wikipedia.org/wiki/Rita Moreno,https://en.wikipedia.org/wiki/Jack Elam
+Match Point,85.3 million,https://en.wikipedia.org/wiki/Brian Cox (actor),https://en.wikipedia.org/wiki/Matthew Goode,https://en.wikipedia.org/wiki/Scarlett Johansson,https://en.wikipedia.org/wiki/Emily Mortimer,https://en.wikipedia.org/wiki/Jonathan Rhys Meyers,https://en.wikipedia.org/wiki/Penelope Wilton
+The Devil You Know (film),,https://en.wikipedia.org/wiki/Lena Olin,https://en.wikipedia.org/wiki/Rosamund Pike
+Control (2007 film),8.9 million,https://en.wikipedia.org/wiki/Sam Riley,https://en.wikipedia.org/wiki/Samantha Morton,https://en.wikipedia.org/wiki/Toby Kebbell,https://en.wikipedia.org/wiki/Alexandra Maria Lara
+The Pirate Fairy,,https://en.wikipedia.org/wiki/Mae Whitman,https://en.wikipedia.org/wiki/Christina Hendricks,https://en.wikipedia.org/wiki/Tom Hiddleston,https://en.wikipedia.org/wiki/Lucy Liu,https://en.wikipedia.org/wiki/Raven-Symoné
+American Gun (2005 film),,https://en.wikipedia.org/wiki/Linda Cardellini,https://en.wikipedia.org/wiki/Tony Goldwyn,https://en.wikipedia.org/wiki/Marcia Gay Harden,https://en.wikipedia.org/wiki/Donald Sutherland,https://en.wikipedia.org/wiki/Forest Whitaker
+Everest (2015 film),203.4 million,https://en.wikipedia.org/wiki/Jason Clarke (actor),https://en.wikipedia.org/wiki/Josh Brolin,https://en.wikipedia.org/wiki/John Hawkes (actor),https://en.wikipedia.org/wiki/Robin Wright,https://en.wikipedia.org/wiki/Emily Watson,https://en.wikipedia.org/wiki/Keira Knightley,https://en.wikipedia.org/wiki/Sam Worthington,https://en.wikipedia.org/wiki/Jake Gyllenhaal
+Harry Potter and the Goblet of Fire (film),896.9 million,https://en.wikipedia.org/wiki/Daniel Radcliffe,https://en.wikipedia.org/wiki/Rupert Grint,https://en.wikipedia.org/wiki/Emma Watson,https://en.wikipedia.org/wiki/Predrag Bjelac,https://en.wikipedia.org/wiki/Robbie Coltrane,https://en.wikipedia.org/wiki/Ralph Fiennes,https://en.wikipedia.org/wiki/Michael Gambon,https://en.wikipedia.org/wiki/Brendan Gleeson,https://en.wikipedia.org/wiki/Jason Isaacs,https://en.wikipedia.org/wiki/Gary Oldman,https://en.wikipedia.org/wiki/Alan Rickman,https://en.wikipedia.org/wiki/Maggie Smith,https://en.wikipedia.org/wiki/Timothy Spall
+Gamebox 1.0,,https://en.wikipedia.org/wiki/Nate Richert,https://en.wikipedia.org/wiki/Danielle Fishel,https://en.wikipedia.org/wiki/Patrick Kilpatrick,https://en.wikipedia.org/wiki/Patrick Renna
+Spy Kids,147.9 million,https://en.wikipedia.org/wiki/Antonio Banderas,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Alexa Vega,https://en.wikipedia.org/wiki/Daryl Sabara,https://en.wikipedia.org/wiki/Alan Cumming,https://en.wikipedia.org/wiki/Teri Hatcher,https://en.wikipedia.org/wiki/Cheech Marin,https://en.wikipedia.org/wiki/Danny Trejo,https://en.wikipedia.org/wiki/Robert Patrick,https://en.wikipedia.org/wiki/Tony Shalhoub,https://en.wikipedia.org/wiki/Mike Judge
+Family Guy,,
+Cayo (film),,https://en.wikipedia.org/wiki/Roselyn Sánchez,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Iván Camilo (page does not exist),https://en.wikipedia.org/wiki/Carlos Esteban Fonseca,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Idalia Pérez Garay (page does not exist)
+Judas Kiss (1998 film),,https://en.wikipedia.org/wiki/Alan Rickman,https://en.wikipedia.org/wiki/Emma Thompson,https://en.wikipedia.org/wiki/Roscoe Lee Browne,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Simon Baker,https://en.wikipedia.org/wiki/Til Schweiger,https://en.wikipedia.org/wiki/Gil Bellows
+The Great Raid,10.8 million,https://en.wikipedia.org/wiki/Benjamin Bratt,https://en.wikipedia.org/wiki/James Franco,https://en.wikipedia.org/wiki/Connie Nielsen,https://en.wikipedia.org/wiki/Marton Csokas,https://en.wikipedia.org/wiki/Joseph Fiennes
+Crash (2004 film),98.4 million,https://en.wikipedia.org/wiki/Sandra Bullock,https://en.wikipedia.org/wiki/Matt Dillon,https://en.wikipedia.org/wiki/Jennifer Esposito,https://en.wikipedia.org/wiki/Brendan Fraser,https://en.wikipedia.org/wiki/Terrence Howard,https://en.wikipedia.org/wiki/Ludacris">Chris "Ludacris" Bridges</a></li>
+<li><a href="/wiki/Thandie_Newton" title="Thandie Newton">Thandie Newton</a></li>
+<li><a href="/wiki/Ryan_Phillippe" title="Ryan Phillippe">Ryan Phillippe</a></li>
+<li><a href="/wiki/Larenz_Tate" title="Larenz Tate,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/Ryan Phillippe,https://en.wikipedia.org/wiki/Larenz Tate
+Hero (1992 film),19.5 million,https://en.wikipedia.org/wiki/Dustin Hoffman,https://en.wikipedia.org/wiki/Geena Davis,https://en.wikipedia.org/wiki/Andy García
+The Yellow Tomahawk,,https://en.wikipedia.org/wiki/Rory Calhoun,https://en.wikipedia.org/wiki/Peggie Castle,https://en.wikipedia.org/wiki/Noah Beery, Jr.,https://en.wikipedia.org/wiki/Warner Anderson,https://en.wikipedia.org/wiki/Peter Graves,https://en.wikipedia.org/wiki/Lee Van Cleef,https://en.wikipedia.org/wiki/Rita Moreno
+Stolen (2012 film),,https://en.wikipedia.org/wiki/Nicolas Cage,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/Malin Åkerman,https://en.wikipedia.org/wiki/M.C. Gainey,https://en.wikipedia.org/wiki/Sami Gayle,https://en.wikipedia.org/wiki/Mark Valley,https://en.wikipedia.org/wiki/Josh Lucas
+Un monstre à Paris,24 million,https://en.wikipedia.org/wiki/Matthieu Chedid,https://en.wikipedia.org/wiki/Vanessa Paradis
+The Daytrippers,,https://en.wikipedia.org/wiki/Hope Davis,https://en.wikipedia.org/wiki/Anne Meara,https://en.wikipedia.org/wiki/Parker Posey,https://en.wikipedia.org/wiki/Liev Schreiber,https://en.wikipedia.org/wiki/Campbell Scott,https://en.wikipedia.org/wiki/Stanley Tucci
+Miami Rhapsody,,https://en.wikipedia.org/wiki/Antonio Banderas,https://en.wikipedia.org/wiki/Gil Bellows,https://en.wikipedia.org/wiki/Mia Farrow,https://en.wikipedia.org/wiki/Sarah Jessica Parker,https://en.wikipedia.org/wiki/Carla Gugino,https://en.wikipedia.org/wiki/Paul Mazursky,https://en.wikipedia.org/wiki/Kevin Pollak
+As the World Turns,,https://en.wikipedia.org/wiki/
+Scott Pilgrim vs. the World,47.7 million,https://en.wikipedia.org/wiki/Michael Cera,https://en.wikipedia.org/wiki/Mary Elizabeth Winstead,https://en.wikipedia.org/wiki/Kieran Culkin,https://en.wikipedia.org/wiki/Chris Evans (actor),https://en.wikipedia.org/wiki/Anna Kendrick,https://en.wikipedia.org/wiki/Alison Pill,https://en.wikipedia.org/wiki/Brandon Routh,https://en.wikipedia.org/wiki/Jason Schwartzman
+Single White Female,,https://en.wikipedia.org/wiki/Bridget Fonda,https://en.wikipedia.org/wiki/Jennifer Jason Leigh,https://en.wikipedia.org/wiki/Steven Weber (actor),https://en.wikipedia.org/wiki/Peter Friedman
+The Insider (film),60.2 million,https://en.wikipedia.org/wiki/Al Pacino,https://en.wikipedia.org/wiki/Russell Crowe,https://en.wikipedia.org/wiki/Christopher Plummer,https://en.wikipedia.org/wiki/Diane Venora,https://en.wikipedia.org/wiki/Philip Baker Hall,https://en.wikipedia.org/wiki/Lindsay Crouse,https://en.wikipedia.org/wiki/Debi Mazar
+Illegal Tender (film),3.1 million,https://en.wikipedia.org/wiki/Rick Gonzalez,https://en.wikipedia.org/wiki/Wanda De Jesus,https://en.wikipedia.org/wiki/Dania Ramirez
+In the Electric Mist,7.9 million,https://en.wikipedia.org/wiki/Tommy Lee Jones,https://en.wikipedia.org/wiki/John Goodman,https://en.wikipedia.org/wiki/Peter Sarsgaard,https://en.wikipedia.org/wiki/Kelly Macdonald,https://en.wikipedia.org/wiki/Mary Steenburgen,https://en.wikipedia.org/wiki/Levon Helm,https://en.wikipedia.org/wiki/Ned Beatty,https://en.wikipedia.org/wiki/Buddy Guy
+Jump Tomorrow,,https://en.wikipedia.org/wiki/Tunde Adebimpe,https://en.wikipedia.org/wiki/Hippolyte Girardot,https://en.wikipedia.org/wiki/Natalia Verbeke
+Playin' for Love,,https://en.wikipedia.org/wiki/Salli Richardson-Whitfield,https://en.wikipedia.org/wiki/Esai Morales,https://en.wikipedia.org/wiki/Jenifer Lewis
+Maverick Movie Awards,,
+AKA (film),,https://en.wikipedia.org/wiki/Matthew Leitch,https://en.wikipedia.org/wiki/Diana Quick,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/George Asprey (page does not exist),https://en.wikipedia.org/wiki/Lindsey Coulson
+Maid in Manhattan,154.9 million,https://en.wikipedia.org/wiki/Jennifer Lopez,https://en.wikipedia.org/wiki/Ralph Fiennes,https://en.wikipedia.org/wiki/Natasha Richardson
+The Jungle Book: Mowgli's Story,,https://en.wikipedia.org/wiki/Brandon Baker,https://en.wikipedia.org/wiki/Brian Doyle-Murray,https://en.wikipedia.org/wiki/Eartha Kitt,https://en.wikipedia.org/wiki/Clancy Brown,https://en.wikipedia.org/wiki/Peri Gilpin,https://en.wikipedia.org/wiki/Sherman Howard
+Half of a Yellow Sun (film),,https://en.wikipedia.org/wiki/Chiwetel Ejiofor,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/Onyeka Onwenu,https://en.wikipedia.org/wiki/Anika Noni Rose,https://en.wikipedia.org/wiki/Genevieve Nnaji,https://en.wikipedia.org/wiki/OC Ukeje,https://en.wikipedia.org/wiki/John Boyega
+The Operator,,https://en.wikipedia.org/wiki/Michael Laurence,https://en.wikipedia.org/wiki/Stephen Tobolowsky,https://en.wikipedia.org/wiki/Brion James,https://en.wikipedia.org/wiki/Brad Leland,https://en.wikipedia.org/wiki/Jacqueline Kim
+César Chávez (film),6.7 million,https://en.wikipedia.org/wiki/Michael Peña,https://en.wikipedia.org/wiki/America Ferrera,https://en.wikipedia.org/wiki/Rosario Dawson
+School of Rock,131.3 million,https://en.wikipedia.org/wiki/Jack Black,https://en.wikipedia.org/wiki/Joan Cusack,https://en.wikipedia.org/wiki/Sarah Silverman,https://en.wikipedia.org/wiki/Miranda Cosgrove
+Wonder Woman (2017 film),821.8 million,https://en.wikipedia.org/wiki/Gal Gadot,https://en.wikipedia.org/wiki/Chris Pine,https://en.wikipedia.org/wiki/Robin Wright,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/David Thewlis,https://en.wikipedia.org/wiki/Connie Nielsen,https://en.wikipedia.org/wiki/Elena Anaya
+Frontera (2014 film),,https://en.wikipedia.org/wiki/Eva Longoria,https://en.wikipedia.org/wiki/Michael Peña,https://en.wikipedia.org/wiki/Ed Harris,https://en.wikipedia.org/wiki/Amy Madigan
+Fifty Shades of Grey (film),571 million,https://en.wikipedia.org/wiki/Dakota Johnson,https://en.wikipedia.org/wiki/Jamie Dornan,https://en.wikipedia.org/wiki/Jennifer Ehle,https://en.wikipedia.org/wiki/Marcia Gay Harden
+Wonder Woman (2017 film),821.8 million,https://en.wikipedia.org/wiki/Gal Gadot,https://en.wikipedia.org/wiki/Chris Pine,https://en.wikipedia.org/wiki/Robin Wright,https://en.wikipedia.org/wiki/Danny Huston,https://en.wikipedia.org/wiki/David Thewlis,https://en.wikipedia.org/wiki/Connie Nielsen,https://en.wikipedia.org/wiki/Elena Anaya
+No God, No Master,,
+Better Off Ted,,https://en.wikipedia.org/wiki/Jay Harrington,https://en.wikipedia.org/wiki/Portia de Rossi,https://en.wikipedia.org/wiki/Andrea Anders,https://en.wikipedia.org/wiki/Jonathan Slavin,https://en.wikipedia.org/wiki/Malcolm Barrett (actor),https://en.wikipedia.org/wiki/Isabella Acres
+Gremlins 2: The New Batch,41.5 million,https://en.wikipedia.org/wiki/Zach Galligan,https://en.wikipedia.org/wiki/Phoebe Cates,https://en.wikipedia.org/wiki/John Glover (actor),https://en.wikipedia.org/wiki/Robert Prosky,https://en.wikipedia.org/wiki/Robert Picardo,https://en.wikipedia.org/wiki/Christopher Lee
+Atlas Shrugged: Part II,,https://en.wikipedia.org/wiki/Samantha Mathis,https://en.wikipedia.org/wiki/Jason Beghe,https://en.wikipedia.org/wiki/Esai Morales,https://en.wikipedia.org/wiki/Patrick Fabian,https://en.wikipedia.org/wiki/Kim Rhodes,https://en.wikipedia.org/wiki/Richard T. Jones,https://en.wikipedia.org/wiki/D.B. Sweeney
+Faster (2010 film),35.6 million,https://en.wikipedia.org/wiki/Dwayne Johnson,https://en.wikipedia.org/wiki/Billy Bob Thornton
+The Joy Luck Club (film),32.9 million,https://en.wikipedia.org/wiki/Ming-Na Wen,https://en.wikipedia.org/wiki/Rosalind Chao,https://en.wikipedia.org/wiki/Lauren Tom,https://en.wikipedia.org/wiki/France Nguyen,https://en.wikipedia.org/wiki/Tamlyn Tomita,https://en.wikipedia.org/wiki/Kieu Chinh,https://en.wikipedia.org/wiki/Lisa Lu,https://en.wikipedia.org/wiki/Tsai Chin (actress)
+The Truth About Charlie,7.1 million,https://en.wikipedia.org/wiki/Mark Wahlberg,https://en.wikipedia.org/wiki/Thandie Newton,https://en.wikipedia.org/wiki/Tim Robbins,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Ted Levine,https://en.wikipedia.org/wiki/Lisa Gay Hamilton,https://en.wikipedia.org/wiki/Christine Boisson,https://en.wikipedia.org/wiki/Stephen Dillane,https://en.wikipedia.org/wiki/Charles Aznavour,https://en.wikipedia.org/wiki/Anna Karina,https://en.wikipedia.org/wiki/Magali Noël
+Ralph Breaks the Internet,,https://en.wikipedia.org/wiki/John C. Reilly,https://en.wikipedia.org/wiki/Sarah Silverman,https://en.wikipedia.org/wiki/Jack McBrayer,https://en.wikipedia.org/wiki/Jane Lynch,https://en.wikipedia.org/wiki/Taraji P. Henson,https://en.wikipedia.org/wiki/Alan Tudyk,https://en.wikipedia.org/wiki/Gal Gadot,https://en.wikipedia.org/wiki/Bill Hader,https://en.wikipedia.org/wiki/Alfred Molina
+The Warrior's Way,,https://en.wikipedia.org/wiki/Jang Dong-gun,https://en.wikipedia.org/wiki/Geoffrey Rush,https://en.wikipedia.org/wiki/Kate Bosworth,https://en.wikipedia.org/wiki/Danny Huston
+Memoirs of an Invisible Man (film),14.4 million,https://en.wikipedia.org/wiki/Chevy Chase,https://en.wikipedia.org/wiki/Daryl Hannah,https://en.wikipedia.org/wiki/Sam Neill,https://en.wikipedia.org/wiki/Michael McKean,https://en.wikipedia.org/wiki/Stephen Tobolowsky
+Madea Goes to Jail,90.5 million,https://en.wikipedia.org/wiki/Keshia Knight Pulliam,https://en.wikipedia.org/wiki/Derek Luke (actor),https://en.wikipedia.org/wiki/Robin Coleman,https://en.wikipedia.org/wiki/,https://en.wikipedia.org/wiki/Jackson Walker (page does not exist),https://en.wikipedia.org/wiki/Viola Davis,https://en.wikipedia.org/wiki/David Mann (actor),https://en.wikipedia.org/wiki/Tamela J. Mann,https://en.wikipedia.org/wiki/Vanessa Ferlito,https://en.wikipedia.org/wiki/Sofía Vergara,https://en.wikipedia.org/wiki/Bobbi Baker
