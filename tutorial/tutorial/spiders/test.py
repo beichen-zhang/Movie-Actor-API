@@ -10,7 +10,7 @@ class Test_Data_Structure(unittest.TestCase):
         db.store_actor("actor_test1.txt")
         db.store_movie("movie_test1.txt")
         graph = Graph(db)
-        self.assertEqual(len(graph.actor_dict), 2)
+        self.assertEqual(len(graph.actor_dict), 3)
         self.assertEqual(len(graph.movie_dict), 2)
 
     def test_gross(self):
@@ -56,7 +56,7 @@ class Test_Data_Structure(unittest.TestCase):
         db = Database()
         db.store_actor("actor_test1.txt")
         db.store_movie("movie_test1.txt")
-        self.assertEqual(len(db.actor),2)
+        self.assertEqual(len(db.actor),3)
         self.assertEqual(len(db.movie),2)
 
     def test_db_value(self):
@@ -78,6 +78,12 @@ class Test_Data_Structure(unittest.TestCase):
         self.assertEqual(actor.movie[1], "movie2")
         self.assertEqual(actor.movie[2], "movie3")
 
+    def test_db_count(self):
+        db = Database()
+        db.store_movie("movie.txt")
+        db.store_actor("actor.txt")
+        self.assertTrue(len(db.actor)>250)
+        self.assertTrue(len(db.movie) > 125)
 
 if __name__ == '__main__':
     unittest.main()

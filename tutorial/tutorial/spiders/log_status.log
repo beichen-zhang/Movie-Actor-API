@@ -14317,3 +14317,42 @@ crawling from website: https://en.wikipedia.org/wiki/Big Pun
 actor name: Big Pun
 enter actor parse function
 name: Justin Pierce, age: d 2
+the crwaling processing in round 0
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/Jimmy Fallon
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/Tamala Jones
+the crwaling processing in round 1
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/Guy Pearce
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/MC Eiht
+actor name: Tamala Jones
+actor name: MC Eiht
+enter actor parse function
+parse failed! Due to unexpected filmology format
+enter actor parse function
+name: Tamala Jones, age:  43
+Start a crawler Success
+Crawler type: movie information crawler
+crawling from website: https://en.wikipedia.org/wiki/Gunshy (film)
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/Jennifer Lopez
+Start a crawler Success
+Crawler type: movie information crawler
+crawling from website: https://en.wikipedia.org/wiki/Golden Globe Award for Best Actress – Miniseries or Television Film">Best Actress – Miniseries or Television Film</a><sup id="cite_ref-GG_260-1" class="reference"><a href="#cite_note-GG-260">[260]</a></sup>
+
+Start a crawler Success
+Crawler type: actor information crawler
+crawling from website: https://en.wikipedia.org/wiki/Steve Buscemi
+actor name: Jennifer Lopez
+actor name: Steve Buscemi
+enter actor parse function
+parse failed! Due to unexpected filmology format
+enter actor parse function
+parse failed! Due to unexpected filmology format

@@ -26,21 +26,24 @@ class Database ():
             attribute = line.split(",")
             if(len(attribute)<2):
                 print("too short", attribute)
-                return
-            age = attribute[1]
-            name = attribute[0]
-            try:
-                i = int(age)
-                movie_list = []
-                if len(attribute)>2:
-                    for movie in attribute[2:]:
-                        movie_list.append(movie[30:])
-                actor = Actor(name,age,movie_list)
-                actor.age_int = i
-                self.actor.append(actor)
-            except ValueError:
-                i = 1
+                continue
+            self.parse_actor(attribute)
         file.close()
+
+    def parse_actor(self,attribute):
+        age = attribute[1]
+        name = attribute[0]
+        try:
+            i = int(age)
+        except ValueError:
+            i = 20
+        movie_list = []
+        if len(attribute) > 2:
+            for movie in attribute[2:]:
+                movie_list.append(movie[30:])
+        actor = Actor(name, age, movie_list)
+        actor.age_int = i
+        self.actor.append(actor)
 
     # parse the movie.txt to movie object, store in database
     def store_movie(self,filename):
@@ -57,18 +60,7 @@ class Database ():
                 name = attribute[0]
                 gross= attribute[1]
                 movie = Movie(name,gross,[])
-                parts = gross.split(" ")
-                if len(parts)==2:
-                    if parts[1]=="million":
-                        try:
-                            movie.money = float(parts[0])*1000000
-                        except ValueError:
-                             a =1
-                    if parts[1]=="billion":
-                        try:
-                            movie.money = float(parts[0])*1000000000
-                        except ValueError:
-                            a = 1
+                movie.money = self.gross_to_money(gross)
             else:
                 movie = Movie(attribute[0],"",[])
             actor_list =[]
@@ -77,6 +69,20 @@ class Database ():
             movie.star = actor_list
             self.movie.append(movie)
         file.close()
+
+    def gross_to_money(self,gross):
+        parts = gross.split(" ")
+        if len(parts) == 2:
+            if parts[1] == "million":
+                try:
+                    return float(parts[0]) * 1000000
+                except ValueError:
+                    return 0
+            if parts[1] == "billion":
+                try:
+                    return float(parts[0]) * 1000000000
+                except ValueError:
+                    return 0
 
     def handle_movie(self,line):
         index = line.find("title=")
